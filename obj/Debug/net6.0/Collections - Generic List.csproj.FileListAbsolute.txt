@@ -1,0 +1,15 @@
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Collections - Generic List\bin\Debug\net6.0\Collections - Generic List.exe
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Collections - Generic List\bin\Debug\net6.0\Collections - Generic List.deps.json
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Collections - Generic List\bin\Debug\net6.0\Collections - Generic List.runtimeconfig.json
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Collections - Generic List\bin\Debug\net6.0\Collections - Generic List.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Collections - Generic List\bin\Debug\net6.0\Collections - Generic List.pdb
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Collections - Generic List\obj\Debug\net6.0\Collections - Generic List.csproj.AssemblyReference.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Collections - Generic List\obj\Debug\net6.0\Collections - Generic List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Collections - Generic List\obj\Debug\net6.0\Collections - Generic List.AssemblyInfoInputs.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Collections - Generic List\obj\Debug\net6.0\Collections - Generic List.AssemblyInfo.cs
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Collections - Generic List\obj\Debug\net6.0\Collections - Generic List.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Collections - Generic List\obj\Debug\net6.0\Collections - Generic List.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Collections - Generic List\obj\Debug\net6.0\refint\Collections - Generic List.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Collections - Generic List\obj\Debug\net6.0\Collections - Generic List.pdb
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Collections - Generic List\obj\Debug\net6.0\Collections - Generic List.genruntimeconfig.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Collections - Generic List\obj\Debug\net6.0\ref\Collections - Generic List.dll
